@@ -1,0 +1,70 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = R. Fontoura Xavier, 1157 - Itaquera, São Paulo - SP
+
+### Title
+tour.name = Rusig Boulevard Premium - Tour Virtual 360°
+
+## Skin
+
+### Button
+Button_DAE92878_E2EB_F983_41E3_15BE93E6354F.label = ESTACIONAMENTO
+Button_DAE92878_E2EB_F983_41E3_15BE93E6354F_mobile.label = ESTACIONAMENTO
+Button_ECBA01FA_E3FD_8A87_41E4_C98914271C17.label = OFFICE TOWER 2° ANDAR
+Button_ECBA01FA_E3FD_8A87_41E4_C98914271C17_mobile.label = OFFICE TOWER 2° ANDAR
+Button_F2441986_E3FD_9A8F_41DF_04A99208CA71.label = FACHADA BOULEVARD 
+Button_F2441986_E3FD_9A8F_41DF_04A99208CA71_mobile.label = FACHADA BOULEVARD 
+Button_F2CD5305_E3E4_8F8D_41DE_526BBB8041D5.label = ESCRITÓRIO RUSIG
+Button_F2CD5305_E3E4_8F8D_41DE_526BBB8041D5_mobile.label = ESCRITÓRIO RUSIG
+Button_F3C62B85_E3FC_FE8D_41E1_A76676197094.label = IMAGEM AÉREA
+Button_F3C62B85_E3FC_FE8D_41E1_A76676197094_mobile.label = IMAGEM AÉREA
+Button_F3D1B452_E3FC_8987_41E9_3F50BB1375A1.label = OFFICE TOWER 1° ANDAR
+Button_F3D1B452_E3FC_8987_41E9_3F50BB1375A1_mobile.label = OFFICE TOWER 1° ANDAR
+
+## Media
+
+### Title
+panorama_E89C66CD_E25B_B69D_41E3_C426636FEA4D.label = Drone 360
+panorama_ECA6550C_E2BC_8B83_41CB_05F885905625.label = 1
+panorama_EE120368_E2BD_8F83_41C1_F97E0F309796.label = 13
+panorama_EE120473_E2BC_8985_41DB_D1A1A4A81140.label = 7
+panorama_EE120743_E2BD_7785_41E1_D5993FF26520.label = 21
+panorama_EE120BB1_E2BC_FE85_41E1_C1DB72D681BB.label = 3
+panorama_EE120CC0_E2BD_9A83_41DB_A50A9725CA4E.label = 17
+panorama_EE121001_E2BC_8985_41E1_62EA165AE005.label = 5
+panorama_EE1217DA_E2BD_F687_41D6_9D3BD605AA5D.label = 15
+panorama_EE121E2E_E2BD_999F_41C9_ADAF2860F28A.label = 11
+panorama_EE123286_E2BD_8E8F_41EB_8818B1AF9C52.label = 16
+panorama_EE124370_E2BD_8F83_41E4_CB2487503387.label = 10
+panorama_EE127DA0_E2BD_9A83_41EA_133A650F397C.label = 14
+panorama_EE12FA19_E2BC_B985_41E1_1E2C2214AF33.label = 6
+panorama_EE12FEEE_E2BC_969F_41D8_8F1E99E7BB60.label = 8
+panorama_EE13BCC7_E2BD_9A8D_41C7_E7316F270F89.label = 20
+panorama_EE13C23B_E2BD_8984_41C9_60401FEDD66A.label = 19
+panorama_EE13D74C_E2BD_B783_41E9_65D4A1B2A4F7.label = 18
+panorama_EE13D868_E2BD_B983_41A7_F5D998B6F1A8.label = 12
+panorama_EE2F518A_E2BC_8A87_41E5_478E8B9FB176.label = 2
+panorama_F254BC63_E2AB_9985_41CA_2567A35EF54D.label = 4
+video_D88534D7_E2EB_8A8D_41D4_A7AFF4FDEEA1.label = Um lugar desejado, planejado e Executado com foco  no desenvolvimento comercial e para todos os Moradores, amigos e clientes de um Bairro que tenho muito orgulho e admiração ITAQUERA  . O acesso do Padrã
+video_DC72DEFD_E2AB_767D_41DB_9EBFCC681B94.label = loading
+
+## Hotspot
+
+### URL
+overlay_F683FB3E_E6FC_2233_41E7_E7E2C7EB98B9.url = //www.youtube.com/embed/UKx6EVBARtA?v=UKx6EVBARtA
+overlay_F6C27810_E6FC_2DCE_41EA_5F3D928BF569.url = //www.youtube.com/embed/UKx6EVBARtA?v=UKx6EVBARtA
+overlay_F6F509C5_E6C4_2E51_41C2_3577F1B8F455.url = //www.youtube.com/embed/UKx6EVBARtA?v=UKx6EVBARtA
+overlay_F6F67CE5_E6FC_E656_41D6_08050A51DF60.url = //www.youtube.com/embed/UKx6EVBARtA?v=UKx6EVBARtA
+
+## Action
+
+### URL
+LinkBehaviour_A700BB50_E2A4_BF83_41B7_E83F9CE365C9.source = https://www.instagram.com/rusigboulevard/
+LinkBehaviour_A70E3B4F_E2A4_BF9D_41EA_BAFBB0C652BA.source = https://api.whatsapp.com/send?phone=5511963771408
+LinkBehaviour_A70E6B51_E2A4_BF85_41E4_A5EF0014E231.source = https://www.google.com/maps?cid=17774441676809814480
+LinkBehaviour_D564AD66_E2A4_9B8F_41D0_84F8C0130012.source = https://api.whatsapp.com/send?phone=5511963771408
+LinkBehaviour_D61B3C38_E2A5_F983_41DE_9445A46BDB55.source = https://www.google.com/maps?cid=17774441676809814480
+LinkBehaviour_D7BBEF76_E2A4_B78F_41E8_AE4D5D1917FA.source = https://www.instagram.com/rusigboulevard/
